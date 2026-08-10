@@ -1,4 +1,4 @@
-# The Ultimate Self-Contained Python Study Guide & Textbook
+# The Ultimate Self-Contained Python Study Guide & Textbook (Note made from Bro Code's 12hrs Python Playlist)
 
 Welcome to the ultimate Python programming masterclass reference guide. This document is fully self-contained and meticulously detailed. If you have a basic understanding of programming and want to learn everything Python has to offer—from the absolute fundamentals to advanced object-oriented architectures, GUI design, file operations, multi-threading, API integration, and dozens of fully implemented games and tools—**this single document is all you need.**
 
