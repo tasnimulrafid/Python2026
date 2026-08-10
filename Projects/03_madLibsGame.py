@@ -1,0 +1,15 @@
+print("Welcome to Python Mad Libs!")
+print("Fill in the blanks to create a funny story.\n")
+
+adj_1 = input("enter an adjective (description of something): ")
+noun_1 = input("enter a noun (person, place, or thing): ")
+adj_2 = input("enter another adjective: ")
+verb_1 = input("enter a verb ending with 'ing' (action): ")
+adj_3 = input("enter a final adjective: ")
+
+print("\n" + "-"*40)
+print(f"Today I went to a {adj_1} zoo.")
+print(f"In an exibit, I saw a {noun_1}.")
+print(f"The {noun_1} was {adj_2} and currently {verb_1}!")
+print(f"I was extremely {adj_3} to see it.")
+print("-"*40)
