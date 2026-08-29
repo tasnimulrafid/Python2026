@@ -1,8 +1,8 @@
-stringToCheck = input("enter a string to check if it's palindrome: ").strip()
+stringToCheck = input("enter a string to check if it is palindrome or not: ").strip()
 
-reversedString = stringToCheck[::-1]
+revString = stringToCheck[::-1]
 
-if stringToCheck.lower() == reversedString.lower():
-    print(f"{stringToCheck} is a palindrome!")
+if stringToCheck.lower() == revString.lower():
+    print(f"{stringToCheck} is a palindrome.")
 else:
-    print(f"{stringToCheck} is not a palindrome:(")
+    print(f"{stringToCheck} is not a palindrome.")
